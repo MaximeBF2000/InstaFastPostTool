@@ -1,0 +1,17 @@
+{
+  "name": "instaFastPost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html -p 3000",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Maxime BOUNAAS-FERRET",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.2",
+    "html2canvas": "^1.0.0-rc.7"
+  }
+}
